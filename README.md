@@ -5,6 +5,7 @@ Histology TensorFlow Demo
 
 ### Motherboard of a 2 socket server
 ![motherboard](intel_server_board.png)
+[Figure source](https://www.intel.com/content/dam/support/us/en/documents/server-products/server-boards/Intel_Server_Board_S2600ST_Q_S_G.pdf)
 
 
 ### Sockets, Cores, and Threads (oh my!)
