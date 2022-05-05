@@ -1,10 +1,10 @@
-# histology
+# Histology CNN
 Histology TensorFlow Demo
 
 ## Architecture of a CPU 
 
 ### Motherboard of a 2 socket server
-![motherboard](https://m.media-amazon.com/images/I/71wFQ+wjoXL._AC_SY450_.jpg)
+![motherboard](intel_server_board.png)
 
 
 ### Sockets, Cores, and Threads (oh my!)
